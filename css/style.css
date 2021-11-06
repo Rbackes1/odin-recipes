@@ -1,0 +1,21 @@
+*{
+    font-family: "verdana", sans-serif;
+}
+.title{
+    text-align: center;
+    background-color: tan
+
+}
+.subtitle{
+    color: maroon;
+    background-color:mediumaquamarine;
+}
+img{
+    height:auto;
+    width: 500px;
+}
+.info{
+    font-family:"Times New Roman", Times, serif;
+    background-color: whitesmoke;
+    
+}
